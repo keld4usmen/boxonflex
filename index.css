@@ -28,7 +28,7 @@
   font-weight: 400;
 }
 
-.main-one-content a {
+.main-one-content #read {
   width: 10.6875rem;
   display: flex;
   justify-content: space-between;
@@ -60,6 +60,15 @@
   width: 315px;
   height: 47px;
 }
+#Home, #our{
+  padding-top: 6%;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+#Home, #our:hover{
+  color: #c6754d;
+}
+
 .btn-1 {
   width: 140px;
   padding: 8px 40px 8px 40px;
