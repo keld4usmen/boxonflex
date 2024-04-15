@@ -197,9 +197,10 @@ footer p {
   }
         .main-three {
                 position: absolute;
+          top:80;
                /* top: 180%;
-               bottom: 15%;
-                padding-top:1rem;*/
+               bottom: 15%;*/
+                padding-top:1rem;
                 }
         footer {
                 position: absolute;
