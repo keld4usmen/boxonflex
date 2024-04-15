@@ -176,7 +176,7 @@ footer p {
           position: absolute;
           top: 102%;
           height:09px;
-          line-height: 28px;
+          line-height: 58px;
           gap: 1rem;
           padding-top:1rem;
           margin-bottom:2rem;
@@ -188,7 +188,7 @@ footer p {
           bottom: 3%;
           top: 7%;
         right:08%;
-          line-height: 90px;
+          /*line-height: 90px;*/
         
   }
         .main-three {
