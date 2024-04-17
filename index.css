@@ -145,32 +145,65 @@ footer p {
 }
 @media screen and (max-width: 480px) {
   .navbar{
-    width: 480px;
+    width:30rem;
   }
   .navbar .brand-log {
     width: 5rem;
-     font-size: 1rem;
+     font-size: 2rem;
   }
   .navbar .butt a{
-    display: flex;
+      display: flex;
     flex-direction: row;
-    font-size: 0.5rem;
-    margin-left: -1rem;
-margin-right: 2rem;
-padding-left: 0.1rem;
-padding-right: 1rem;
-gap: 2rem;
+    font-size: 1rem;
+
+
+
+  }
+  .main-two{
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+ text-align: center;
+ margin-bottom: 1rem;
+ padding-top: 1rem;
+ padding-bottom: 2rem;
+  }
+  .main-two  h1 {
   
+    font-family: Montaga;
+    font-size: 2rem;
+    font-weight: 400;
+    color: #000000;
+    text-transform: capitalize;
+    margin-left: 11rem;
+    padding-top: 1rem;
+   padding-top: 1rem;
+    text-align: center;
+   }
+   .main-two  .main-sto p{
+    width: 480px;
+    font-family: Montaga;
+    font-size: 1rem;
+    font-weight: 400;
+    
+  
+ 
+  }
   }
 
-  #our{
- margin-left: -8rem;
-    padding-right: 6rem;
-  }  
-  
+  /*@media 320*/
+   @media screen and (max-width:320px) {
+    .navbar .butt a{
+      display: flex;
+    flex-direction: row;
+    font-size: 1rem;
 
+}
+
+ 
+  
 .all {
-    width: 30rem;
+    width: 480px;
     display: flex;
     flex-direction: column;
     width: auto;
@@ -179,21 +212,23 @@ gap: 2rem;
   }
   .main-one {
     display: flex;
-  
-    width: 17.5rem;
+  flex-direction: row;
+    width: 30rem;
     justify-content: center;
   }
 
   .main-one-content h1 {
-    font-size: 1rem;
+    font-size: 2.5rem;
     font-weight: bolder;
+    text-align: center;
   }
   .main-one-content p{
-    font-size: 0.5rem;
-   
+    font-size: 1rem;
+    text-align: center;
   }
   .main-one-content #read {
-    width: 6rem;
+  margin-left: 2.5rem;
+    width: 10rem;
     display: flex;
     justify-content: space-between;
     font-size: 1rem;
@@ -208,49 +243,58 @@ gap: 2rem;
     margin-right: 1rem;
   }
   .main-two{
-    width: 240px;
+    width: 40rem;
     display: flex;
     flex-direction: column;
  text-align: center;
+ margin-bottom: 3rem;
+ margin-top: 1rem;
+ padding-top: 1rem;
+ padding-bottom: 4rem;
   }
  
   .main-two  h1 {
     font-family: Montaga;
-    font-size: 2rem;
+    font-size: 4rem;
     font-weight: 400;
     color: #000000;
     text-transform: capitalize;
-    margin-left: 4rem;
-    padding-top: 1rem;
-   padding-top: 1rem;
+    margin-left: 6rem;
+    padding-bottom: 1rem;
     text-align: center;
  
  
   }
-  .main-two  .main-sto p{
-    width: 240px;
+  .main-two   p{
+    width: 20rem;
     font-family: Montaga;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 400;
     color: #231f20;
+    padding-right: 0.2% ;
+    padding-left: 2%;
+    bottom: 5%;
     text-align: center;
-   padding-left: 2rem;
-  
  
   }
   .main-three{
-    width: 240px;
+    width: 30rem;
   }
   footer{
-    width: 240;
+    width: 30rem;
   }
   footer p{
-    width: 240px;
+    width: 30rem;
     font-family: Montaga;
-  font-size: 0.6rem;
+  font-size: 1rem;
   font-weight: 400;
   justify-content: space-between;
   text-align: center;
-  padding-bottom: 0.5rem;
+
+margin-bottom: 2rem;
+
   }
+  
+  
+
 }
