@@ -12,7 +12,7 @@
   overflow: hidden;
 
 }
-.navbar {
+/*.navbar {
   width: 90rem;
   display: flex;
   justify-content: space-between;
@@ -50,6 +50,49 @@ color: #c6754d;
   font-weight: 400;
   text-align: left;
   color: #000000;
+}
+.btn-1 p {
+  width: 60px;
+  font-family: Montaga;
+  font-weight: 400;
+  color: #000000;
+  text-align: left;
+}*/
+.navbar {
+  display: flex;
+  justify-content: space-between;
+ /* align-items: center;*/
+  color: #c6754d;
+  
+}
+
+.butt {
+  display: flex;
+  width: 315px;
+  height: 47px;
+  
+}
+
+.btn-1 {
+  /*width: 140px;*/
+  padding: 8px 40px 8px 40px;
+  text-decoration: none;
+}
+
+.btn-2 {
+  /*width: 175px;*/
+  height: 47px;
+  padding: 8px 40px 8px 40px;
+  text-decoration: none;
+}
+
+.btn-2 p {
+  width: 95px;
+  font-family: Montaga;
+  font-weight: 400;
+  text-align: left;
+  color: #000000;
+  
 }
 .btn-1 p {
   width: 60px;
