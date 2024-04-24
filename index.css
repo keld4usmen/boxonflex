@@ -159,7 +159,7 @@ footer p {
     justify-content: center;
   }
 
-  .main-one-content h1 {
+  .main-one-content h1{
           width : 30rem;
     font-size: 2rem;
     font-weight: bolder;
@@ -194,7 +194,7 @@ text-align: left;
   }*/
   .main-two {
     width: 28rem;
-    
+    height: 90%;
     flex-direction: column;
     justify-content: center;
     width: 100%;
