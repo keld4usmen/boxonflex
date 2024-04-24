@@ -164,18 +164,15 @@ footer p {
     font-size: 2rem;
     font-weight: bolder;
 text-align: left;
-        
-
-          
-  }
+         }
         .main-one-content p{
                 text-align: center;
   width: 28rem;
                 
         }
-        #read{
+  .main-one-content  a   /* #read*/{
           width: 30rem;
-          padding: 1rem;
+          padding: 0.5rem 1rem;
         
                 margin: auto ;
         }
