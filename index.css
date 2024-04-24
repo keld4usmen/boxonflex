@@ -195,7 +195,7 @@ text-align: left;
     flex-direction: column;
     justify-content: center;
     width: 80px;
-          padding-top:2rem;
+         /* padding-top:2rem;*/
         
         }
         .main-two h1{
@@ -206,7 +206,7 @@ text-align: left;
                 
         }
   .main-two p{
-    font-size:4rem;
+    font-size: 0.5rem;
   }
         .main-sto{
                 width: 100%;
