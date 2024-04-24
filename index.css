@@ -171,7 +171,7 @@ text-align: left;
                 
         }
   #read{
-          width: 30rem;
+          width: 100%;
           padding: 0.5rem 1rem 0.5rem 1rem;
         
                 margin: auto ;
@@ -179,6 +179,7 @@ text-align: left;
        .main-one-img{
                 width: 50%;
                margin: auto;
+         margin: 1rem;
         }
         
         
