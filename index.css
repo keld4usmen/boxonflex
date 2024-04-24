@@ -170,7 +170,7 @@ text-align: left;
   width: 28rem;
                 
         }
-  #read{
+.main-one-content a  /*#read*/{
           width: 400px;
           padding: 0.5rem 1rem 0.5rem 1rem;
         
