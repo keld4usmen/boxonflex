@@ -170,10 +170,12 @@ text-align: left;
   }
         .main-one-content p{
                 text-align: center;
-  width: 30rem;
+  width: 28rem;
                 
         }
         #read{
+          padding-left: 2rem;
+          padding-right: 2rem;
                 margin: auto ;
         }
        .main-one-img{
@@ -191,6 +193,7 @@ text-align: left;
     justify-content: center;
   }*/
   .main-two {
+    width: 28rem;
     
     flex-direction: column;
     justify-content: center;
