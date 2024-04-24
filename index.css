@@ -191,9 +191,10 @@ text-align: left;
     justify-content: center;
   }*/
   .main-two {
+    
     flex-direction: column;
     justify-content: center;
-    width: 100%;
+    width: 80%;
           /*padding-top:2rem;*/
         
         }
