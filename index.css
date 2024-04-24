@@ -198,7 +198,7 @@ text-align: left;
     flex-direction: column;
     justify-content: center;
     width: 100%;
-         /* padding-top:2rem;*/
+         padding: 0.5rem 1rem;
         
         }
         .main-two h1{
